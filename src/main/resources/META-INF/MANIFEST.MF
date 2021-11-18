@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: miaoshademo.MainApplication
+Class-Path: spring-boot-configuration-processor-2.1.5.RELEASE.jar druid-
+ 1.0.9.jar spring-boot-starter-jdbc-2.1.5.RELEASE.jar log4j-to-slf4j-2.1
+ 1.2.jar validation-api-2.0.1.Final.jar spring-boot-starter-tomcat-2.1.5
+ .RELEASE.jar spring-jcl-5.1.7.RELEASE.jar slf4j-api-1.7.26.jar jedis-2.
+ 9.3.jar jackson-annotations-2.9.0.jar spring-boot-autoconfigure-2.1.5.R
+ ELEASE.jar fastjson-1.2.38.jar thymeleaf-extras-java8time-3.0.4.RELEASE
+ .jar jackson-module-parameter-names-2.9.8.jar spring-jdbc-5.1.7.RELEASE
+ .jar tools.jar spring-messaging-5.1.7.RELEASE.jar spring-boot-starter-a
+ mqp-2.1.5.RELEASE.jar jboss-logging-3.3.2.Final.jar jackson-core-2.9.8.
+ jar jackson-datatype-jsr310-2.9.8.jar logback-core-1.2.3.jar hibernate-
+ validator-6.0.16.Final.jar spring-boot-starter-json-2.1.5.RELEASE.jar s
+ pring-boot-2.1.5.RELEASE.jar spring-tx-5.1.7.RELEASE.jar spring-retry-1
+ .2.4.RELEASE.jar spring-amqp-2.1.6.RELEASE.jar classmate-1.4.0.jar log4
+ j-api-2.11.2.jar mybatis-spring-2.0.5.jar spring-webmvc-5.1.7.RELEASE.j
+ ar spring-web-5.1.7.RELEASE.jar spring-rabbit-2.1.6.RELEASE.jar commons
+ -lang3-3.6.jar spring-boot-starter-logging-2.1.5.RELEASE.jar HikariCP-3
+ .2.0.jar unbescape-1.1.6.RELEASE.jar mybatis-spring-boot-starter-2.1.3.
+ jar thymeleaf-3.0.11.RELEASE.jar spring-aop-5.1.7.RELEASE.jar spring-co
+ re-5.1.7.RELEASE.jar mybatis-3.5.5.jar jackson-databind-2.9.8.jar tomca
+ t-embed-core-9.0.19.jar jconsole.jar spring-boot-starter-validation-2.1
+ .5.RELEASE.jar javax.annotation-api-1.3.2.jar snakeyaml-1.23.jar attopa
+ rser-2.0.5.RELEASE.jar spring-expression-5.1.7.RELEASE.jar mybatis-spri
+ ng-boot-autoconfigure-2.1.3.jar spring-boot-starter-web-2.1.5.RELEASE.j
+ ar spring-boot-starter-2.1.5.RELEASE.jar commons-codec-1.11.jar tomcat-
+ embed-websocket-9.0.19.jar commons-pool2-2.6.2.jar jackson-datatype-jdk
+ 8-2.9.8.jar spring-boot-starter-thymeleaf-2.1.5.RELEASE.jar tomcat-embe
+ d-el-9.0.19.jar thymeleaf-spring5-3.0.11.RELEASE.jar mysql-connector-ja
+ va-8.0.16.jar logback-classic-1.2.3.jar spring-beans-5.1.7.RELEASE.jar 
+ amqp-client-5.4.3.jar jul-to-slf4j-1.7.26.jar spring-context-5.1.7.RELE
+ ASE.jar
+
